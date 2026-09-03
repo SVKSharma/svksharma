@@ -33,7 +33,7 @@
 
 ## 🚀 About Me
 
-I'm a 3rd-year **Computer Science & Engineering** student at **Metropolitan University Bangladesh** and a full-stack web developer who enjoys taking ideas from a blank file to a real, working product.
+I'm a 3rd-year **Computer Science & Engineering** student from **Bangladesh** and a full-stack web developer who enjoys taking ideas from a blank file to a real, working product.
 
 My programming journey started with curiosity about **space, robotics, and cybersecurity**. Over time, that curiosity turned into a habit of building practical software, exploring how systems work underneath the interface, and learning how applications run reliably in production.
 
@@ -170,7 +170,7 @@ My programming journey started with curiosity about **space, robotics, and cyber
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=svksharma&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="Showvik Sharma GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=svksharma&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=6" alt="Showvik Sharma GitHub trophies" />
 </p>
 
 ---
