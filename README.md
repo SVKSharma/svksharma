@@ -153,8 +153,8 @@ My programming journey started with curiosity about **space, robotics, and cyber
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=svksharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Showvik Sharma GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svksharma&layout=compact&theme=tokyonight&hide_border=true" alt="Showvik Sharma top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=svksharma&theme=tokyonight" alt="Showvik Sharma GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=svksharma&theme=tokyonight" alt="Showvik Sharma top languages" />
 </p>
 
 <p align="center">
@@ -167,10 +167,12 @@ My programming journey started with curiosity about **space, robotics, and cyber
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=svksharma&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=6" alt="Showvik Sharma GitHub trophies" />
+  <img src="https://img.shields.io/badge/Code-Full--Stack%20Projects-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Full-stack projects" />
+  <img src="https://img.shields.io/badge/Focus-Open%20Source%20Growth-22C55E?style=for-the-badge&logo=githubactions&logoColor=white" alt="Open source growth" />
+  <img src="https://img.shields.io/badge/Build-Learning%20Every%20Day-F97316?style=for-the-badge&logo=git&logoColor=white" alt="Learning every day" />
 </p>
 
 ---
