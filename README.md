@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpeg" width="100%" alt="Showvik Sharma profile banner" />
+  <img src="./Banner.jpeg" width="100%" alt="Showvik Sharma profile banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Showvik Sharma</h1>
