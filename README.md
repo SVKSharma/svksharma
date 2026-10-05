@@ -116,6 +116,10 @@ My programming journey started with curiosity about **space, robotics, and cyber
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask&theme=dark" alt="Backend technologies" />
 </a>
 
+### Authentication
+
+<img src="https://img.shields.io/badge/Better%20Auth-000000?style=for-the-badge&logo=betterauth&logoColor=white" alt="Better Auth" />
+
 ### Databases
 
 <a href="https://skillicons.dev">
