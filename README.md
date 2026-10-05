@@ -81,6 +81,19 @@ My programming journey started with curiosity about **space, robotics, and cyber
 
 ---
 
+## 🤝 Connect With Me (Socials)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/showvik-sharma">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mail2svksharma08@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
+  </a>
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
